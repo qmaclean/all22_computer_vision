@@ -3,7 +3,10 @@ Computer Vision tags on all 22 football film
 
 
 ## Purpose
-Create models off to predict coverages, blitz, qb spies, offensive personnel, zone/man, etc. 
+Create models off to predict coverages, blitz, qb spies, offensive personnel, zone/man, etc. utilizing native film. The goal is to help to reduce time tagging videos by predicting coverages with confidence
+
+Inspiration: https://www.opensourcefootball.com/posts/2021-05-31-computer-vision-in-r-using-torch/
+
 
 ## Process
 1. Find All 22 NCAAF Football Film
