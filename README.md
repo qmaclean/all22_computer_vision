@@ -18,4 +18,8 @@ Create models off to predict coverages, blitz, qb spies, offensive personnel, zo
 - 2017 Ohio State vs Indiana Season Opener (https://www.espn.com/college-football/game/_/gameId/400935229)
 - 2015 Baylor vs Oklahoma State (https://www.espn.com/college-football/game/_/gameId/400763462)
 
+## Defensive Coverage Model Architecture
+<img width="606" alt="Screen Shot 2022-09-25 at 5 54 10 PM" src="https://user-images.githubusercontent.com/20390351/192174399-2c4b571f-6bda-4bd6-8dcc-fc2a63b8cf8d.png">
+
+
 
