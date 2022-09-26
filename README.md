@@ -1,2 +1,21 @@
 # all22_computer_vision
 Computer Vision tags on all 22 football film
+
+
+## Purpose
+Create models off to predict coverages, blitz, qb spies, offensive personnel, zone/man, etc. 
+
+## Process
+1. Find All 22 NCAAF Football Film
+2. Slice Film by ESPN Game ID (to join for future tagging with @cfbfastR data
+3. Create Training Data w/ manual tags
+4. Build Models using CNN model architecture and with base architecture of ImageNet (VGG16)
+5. Test w/ separate tags
+
+## Games currently sampling plays to train model (list will continue to grow)
+- 2022 Alabama vs Georgia National Championship Game (https://www.espn.com/college-football/game/_/gameId/401331242)
+- 2020 Clemson vs LSU National Championship Game (https://www.espn.com/college-football/game/_/gameId/401135295)
+- 2017 Ohio State vs Indiana Season Opener (https://www.espn.com/college-football/game/_/gameId/400935229)
+- 2015 Baylor vs Oklahoma State (https://www.espn.com/college-football/game/_/gameId/400763462)
+
+
