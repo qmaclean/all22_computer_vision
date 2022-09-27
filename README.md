@@ -19,7 +19,6 @@ Inspiration: https://www.opensourcefootball.com/posts/2021-05-31-computer-vision
 - 2022 Alabama vs Georgia National Championship Game (https://www.espn.com/college-football/game/_/gameId/401331242)
 - 2020 Clemson vs LSU National Championship Game (https://www.espn.com/college-football/game/_/gameId/401135295)
 - 2017 Ohio State vs Indiana Season Opener (https://www.espn.com/college-football/game/_/gameId/400935229)
-- 2017 Iowa vs Penn State (https://www.espn.com/college-football/game/_/gameId/4009353600
 - 2015 Baylor vs Oklahoma State (https://www.espn.com/college-football/game/_/gameId/400763462)
 
 ## Defensive Coverage Model Architecture
