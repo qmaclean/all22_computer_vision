@@ -27,6 +27,10 @@ Inspiration: https://www.opensourcefootball.com/posts/2021-05-31-computer-vision
 *Test set: 25 plays
 
 ## Defensive Coverage Model Architecture
+Utilizing VGG-16 Image Net as the base model architecture: 
+<img width="742" alt="Screen Shot 2022-09-27 at 9 04 21 AM" src="https://user-images.githubusercontent.com/20390351/192577675-98c6c2bc-42c8-4c76-a209-8e999379ba6f.png">
+
+Then add additional layers on top of this model to build the learning specific to our "manual charted" data:
 ![image](https://user-images.githubusercontent.com/20390351/192573695-cc4016f7-d953-4e88-8ce8-e0d2b3245b2c.png)
 
 
