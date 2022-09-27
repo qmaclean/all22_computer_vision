@@ -23,6 +23,9 @@ Inspiration: https://www.opensourcefootball.com/posts/2021-05-31-computer-vision
 - 2017 Ohio State vs Indiana Season Opener (https://www.espn.com/college-football/game/_/gameId/400935229)
 - 2015 Baylor vs Oklahoma State (https://www.espn.com/college-football/game/_/gameId/400763462)
 
+*Training set: 108 plays
+*Test set: 25 plays
+
 ## Defensive Coverage Model Architecture
 ![image](https://user-images.githubusercontent.com/20390351/192573695-cc4016f7-d953-4e88-8ce8-e0d2b3245b2c.png)
 
