@@ -24,7 +24,15 @@ Inspiration: https://www.opensourcefootball.com/posts/2021-05-31-computer-vision
 - 2015 Baylor vs Oklahoma State (https://www.espn.com/college-football/game/_/gameId/400763462)
 
 ## Defensive Coverage Model Architecture
-<img width="606" alt="Screen Shot 2022-09-25 at 5 54 10 PM" src="https://user-images.githubusercontent.com/20390351/192174399-2c4b571f-6bda-4bd6-8dcc-fc2a63b8cf8d.png">
+![image](https://user-images.githubusercontent.com/20390351/192573695-cc4016f7-d953-4e88-8ce8-e0d2b3245b2c.png)
+
+
+## Model Performance
+54% on test set so far (Majority of coverages are Cover 2)
+
+## To - Do
+- Find more instances of Cover 3/4
+- Add Blitz Probability
 
 
 
