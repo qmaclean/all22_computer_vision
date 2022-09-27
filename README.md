@@ -1,4 +1,4 @@
-# all22_computer_vision
+# All22 Computer Vision
 Computer Vision tags on all 22 football film
 
 
