@@ -10,12 +10,13 @@ Inspiration: https://www.opensourcefootball.com/posts/2021-05-31-computer-vision
 
 ## Process
 1. Find All 22 NCAAF Football Film
-2. Slice Film by ESPN Game ID (to join for future tagging with @cfbfastR data
-3. Create Training Data w/ manual tags
+2. Slice Film by ESPN Game ID (to join for future tagging with @cfbfastR data)
+3. Add Training Data w/ manual tags (train_labels)
 4. Build Models using CNN model architecture and with base architecture of ImageNet (VGG16)
-5. Test w/ separate tags
+5. Test w/ separate tags (test_labels)
 
 ## Games currently sampling plays to train model (list will continue to grow)
+(At Least 10 plays of each game are represented in the dataset)
 - 2022 Alabama vs Georgia National Championship Game (https://www.espn.com/college-football/game/_/gameId/401331242)
 - 2020 Clemson vs LSU National Championship Game (https://www.espn.com/college-football/game/_/gameId/401135295)
 - 2020 Baylor vs Georgia Sugar Bowl (https://www.espn.com/college-football/game/_/gameId/401135289)
@@ -24,7 +25,7 @@ Inspiration: https://www.opensourcefootball.com/posts/2021-05-31-computer-vision
 - 2015 Baylor vs Oklahoma State (https://www.espn.com/college-football/game/_/gameId/400763462)
 - 2014 TCU vs Kansas (https://www.espn.com/college-football/game/_/gameId/400547892)
 
-*Training set: 115 plays
+*Training set: 119 plays
 *Test set: 25 plays
 
 ## Defensive Coverage Model Architecture
