@@ -21,11 +21,12 @@ Inspiration: https://www.opensourcefootball.com/posts/2021-05-31-computer-vision
 - 2020 Clemson vs LSU National Championship Game (https://www.espn.com/college-football/game/_/gameId/401135295)
 - 2020 Baylor vs Georgia Sugar Bowl (https://www.espn.com/college-football/game/_/gameId/401135289)
 - 2019 Nevada vs Hawaii (https://www.espn.com/college-football/game/_/gameId/401117515)
+- 2019 Oregon vs University of Washington (https://www.espn.com/college-football/game/_/gameId/401114196)
 - 2017 Ohio State vs Indiana Season Opener (https://www.espn.com/college-football/game/_/gameId/400935229)
 - 2015 Baylor vs Oklahoma State (https://www.espn.com/college-football/game/_/gameId/400763462)
 - 2014 TCU vs Kansas (https://www.espn.com/college-football/game/_/gameId/400547892)
 
-*Training set: 119 plays
+*Training set: 130 plays
 *Test set: 25 plays
 
 ## Defensive Coverage Model Architecture
