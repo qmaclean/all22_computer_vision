@@ -22,8 +22,9 @@ Inspiration: https://www.opensourcefootball.com/posts/2021-05-31-computer-vision
 - 2019 Nevada vs Hawaii (https://www.espn.com/college-football/game/_/gameId/401117515)
 - 2017 Ohio State vs Indiana Season Opener (https://www.espn.com/college-football/game/_/gameId/400935229)
 - 2015 Baylor vs Oklahoma State (https://www.espn.com/college-football/game/_/gameId/400763462)
+- 2014 TCU vs Kansas (https://www.espn.com/college-football/game/_/gameId/400547892)
 
-*Training set: 108 plays
+*Training set: 115 plays
 *Test set: 25 plays
 
 ## Defensive Coverage Model Architecture
