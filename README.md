@@ -45,5 +45,7 @@ Then add additional layers on top of this model to build the learning specific t
 - Find more instances of Cover 3/4
 - Add Blitz Probability
 
+## Sample Output
+<img width="633" alt="Screen Shot 2022-09-29 at 10 47 34 AM" src="https://user-images.githubusercontent.com/20390351/193144085-1a942ee6-d9e9-41e0-8098-6f0631ee0d86.png">
 
 
