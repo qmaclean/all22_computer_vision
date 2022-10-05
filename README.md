@@ -42,6 +42,7 @@ Then add additional layers on top of this model to build the learning specific t
 54% on test set so far (Majority of coverages are Cover 2)
 
 ## To - Do
+- Fix Input shape for testing off of custom architecture
 - Find more instances of Cover 3/4
 - Add Blitz Probability
 
