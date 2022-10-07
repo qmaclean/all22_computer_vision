@@ -41,6 +41,9 @@ Then add additional layers on top of this model to build the learning specific t
 ## Model Performance
 54% on test set so far (Majority of coverages are Cover 2)
 
+Helper Model (ImageNet + Custom Architecture): Training Accuracy: 92%
+Custom Architecture: Training Accuracy: ~46% (Need improvement)
+
 ## To - Do
 - Fix Input shape for testing off of custom architecture
 - Find more instances of Cover 3/4
